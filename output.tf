@@ -7,9 +7,9 @@ output "Jenkins_URL" {
 }
 
 output "Jenkins_User" {
-    value = "admin"
+    value = "natalia"
 }
 
 output "Jenkins_Passwd" {
-    value = "redhat"
+    value = "rodideal"
 }
